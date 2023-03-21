@@ -6,13 +6,10 @@ All the Mario Kart 7 Cheat plugins I have. (Credit to DarkFlare &amp; SFC Hacker
 The .plg files requrie you to use BootNTR which can be found in the Universal-Updater store
 
 # Compatibility
-
 Rev2 USA - Fully Compatible
 Rev2 EUR - Fully Compatible
 Rev2 JPN - Fully Compatible
-
 (some files won't work with the current version)
-
 
 # Usage
 1. Download the plugin from here
