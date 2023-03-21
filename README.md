@@ -1,5 +1,5 @@
 # MK7-Cheat-Plugins
-All the Mario Kart 7 Cheat plugins I have. (Credit to DarkFlare &amp; SFC Hacker for all the amazing plugins)
+All the Mario Kart 7 Cheat plugins I have.
 
 **ONLY USE 1 THAT YOU WANT/LIKE**
 
