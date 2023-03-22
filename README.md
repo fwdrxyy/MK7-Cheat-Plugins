@@ -11,6 +11,7 @@ Rev2 USA - Fully Compatible
 Rev2 EUR - Fully Compatible
 
 Rev2 JPN - Fully Compatible
+(some files won't work with the current version)
 
 # Usage
 1. Download the plugin from here
