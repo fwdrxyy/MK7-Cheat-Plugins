@@ -5,6 +5,8 @@ All the Mario Kart 7 Cheat plugins I have.
 
 The .plg files requrie you to use BootNTR which can be found in the Universal-Updater store
 
+You can download the zip in two ways. One way is from the main page. And the 2nd way is through the Release page. Its marked as v1.0
+
 # Compatibility
 Rev2 USA - Fully Compatible
 
