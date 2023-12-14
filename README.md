@@ -28,7 +28,7 @@ JPN - SD:/luma/plugins/0004000000030600
 
 3. Download Nanquitas mod for Luma3DS that allows plugin loading from here: 
 
-https://github.com/PabloMK7/Luma3DS_3GX/releases
+https://github.com/LumaTeam/Luma3DS/releases/tag/v13.0.2
 
 4. Place the boot.firm on the root of your 3DS SD Card
 5. When on the home menu, press **L+Select+DPad** Down to access the Luma3DS menu (or if you have a different combination, press that)
